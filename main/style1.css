@@ -1,0 +1,116 @@
+
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,900);
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+.plop{
+  margin:margin-bottom: 125px;;
+}
+
+.linmap {
+  background: 
+    linear-gradient(
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ),
+    url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/3/cheese-curds.jpg);
+  background-size: cover;
+  height: 100vh;
+}
+
+.titlesx {
+  position: relative;
+  top: 70%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  text-align: center;
+}
+.superb {
+  text-transform: none;
+  margin: 0;
+  font-size: 4rem;
+  white-space: nowrap;
+  font-family:muli, sans-serif;
+  font-weight:50;
+}
+.classforheadin {
+  font-size: 2rem;
+}
+.kmi {
+  margin: 0;
+  font-size: 1.3rem;
+}
+
+.kmix {
+  max-width: 500px;
+  margin: 20px auto;
+}
+ 
+.ci {
+  left:;
+}
+
+.demo-card-square.mdl-card {
+  width: 23%;
+  height: 500px;
+}
+.demo-card-square > .mdl-card__title {
+  color: #fff;
+  
+}
+.demo-card-square >.k {
+  color: #fff;
+  background:
+    url('https://images.pexels.com/photos/1752506/pexels-photo-1752506.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=220&w=280') bottom right 15% no-repeat #46B6AC;
+}
+.demo-card-square >.LOL {
+  color: #fff;
+  background:
+    url('https://images.pexels.com/photos/4448071/pexels-photo-4448071.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=220&w=270') bottom right 15% no-repeat #46B6AC;
+}
+.demo-card-square >.PLZ {
+  color: #fff;
+  background:
+    url('https://images.pexels.com/photos/1343504/pexels-photo-1343504.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=220&w=280') bottom right 15% no-repeat #46B6AC;
+}
+.demo-card-square >.fin {
+  color: #fff;
+  background:
+    url('https://images.pexels.com/photos/1893566/pexels-photo-1893566.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=220&w=280') bottom right 15% no-repeat #46B6AC;
+}
+
+.is-focused >.lamb{
+  width:100%;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  position:absolute;
+  width:50%;
+  bottom:50px;
+  right:50px;
+  padding: 10px;
+}
+.grid-item {
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+}
+
+.grid-item2 {
+  padding: 8px;
+  font-size: 15px;
+  text-align: left;
+  font-family:sans-serif;
+}
+
+.grid-container2 {
+  display: grid;
+  grid-template-columns: auto auto auto auto auto auto;
+  position:absolute;
+  bottom:200px;
+  right:45px;
+  padding: 20px;
+}
