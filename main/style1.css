@@ -11,11 +11,11 @@ body {
   background: 
     linear-gradient(
       rgba(0, 0, 0, 0.5),
-      rgba(0, 0, 0, 0.5)
+      rgba(0, 0, 0, 0)
     ),
-    url(https://images.pexels.com/photos/753626/pexels-photo-753626.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    url(https://kcballet.org/wp-content/uploads/2020/02/Webp.net-resizeimage-1536x1024.jpg);
   background-size: cover;
-  height: 100vh;
+  height: 120vh;
 }
 
 .titlesx {
